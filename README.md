@@ -6,7 +6,7 @@ O **Nexus-Stock** é um sistema completo de gestão de estoque . Ele foca em esc
 
 ## 🌐 Demo Online
 O sistema pode ser acessado em:  
-👉 [https://nexus-stock.onrender.com](https://nexus-stock.onrender.com)
+👉 https://nexus-stock.onrender.com/admin/
 
 > **Nota:** Devido ao plano gratuito do Render, o servidor pode levar alguns minutos para "acordar" no primeiro acesso (Cold Start).
 
